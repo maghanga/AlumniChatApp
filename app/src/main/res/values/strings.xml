@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AlumniChatApp</string>
+    <string name="chat_buddy_name">Chat Buddy</string>
 </resources>
